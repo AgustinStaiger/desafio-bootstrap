@@ -1,0 +1,142 @@
+body {
+    padding: 1em; 
+    margin: 2em;
+    background-color:orangered;
+    
+}
+
+.container-fluid {
+   display: inline;
+   
+}
+
+
+
+.carousel-inner {
+    margin-left: 25em;
+    margin-top: 2em;
+   
+}
+
+
+h4 {
+    margin:1em;
+    text-decoration: underline;
+    color: turquoise;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+
+
+.card {
+    justify-content: center;
+    padding:1em;
+}
+
+.nav {
+    background-color:whitesmoke;
+    margin:auto;
+    width: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+
+
+
+.pie {
+    background-color: black;
+    color: whitesmoke;   
+    text-align: center;
+    margin-top: 3em;
+}
+
+.col-md-6 {
+    background-color:whitesmoke;
+    margin-left:1em;
+    margin-top: 3em;
+    width: 47em;
+    justify-content: center;
+    border-radius: 1em;
+    border:2px solid black;
+    
+    
+}
+
+.imagennoticia {
+    height: 20em;
+    margin: 1em;
+    border: .5em solid yellow;
+    margin-left: 5em;
+    margin-top:3em;
+    border-radius: 1em;
+
+}
+
+
+.fig {
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: darkslateblue;
+    text-transform: uppercase;
+    background-color: whitesmoke;
+    border-radius: 3em dashed yellow;
+    margin-top: 2em;
+       
+}
+
+h1  {
+    text-align: left;
+    margin: 1em;
+    text-decoration: underline;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslateblue;
+    margin-top: 1em;
+
+}
+
+h3 {
+    text-align: left;
+    color: darkslateblue;
+    font-size: 2em;
+    text-transform: uppercase;
+
+}
+
+
+
+.parrafoimagen {
+    text-align: left;
+    color: darkslateblue;
+    margin-top: 2em;
+    
+
+}
+
+.bancar {
+    margin-right: ;
+
+
+}
+
+.card-title {
+    text-align: left;
+    color: darkslateblue;
+    margin: 1em;
+
+}
+
+.card-text {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.img-fluid {
+    width: 50rem;
+    height: 25rem;
+    margin-left: 25em;
+    margin-top: 2em;
+
+}
